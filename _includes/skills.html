@@ -9,13 +9,11 @@
         {{ skills.title }}
     </h2>
     <div class="skillset">
-        {% for skill in skills.toolset %}
+        {% for set in skills.toolset %}
         <div class="item">
-            <h3 class="level-title">{{ skill.set }}</h3>
-            <div class="level-bar">
-                <div data-level="{{ skill.subset }}">
-                </div>
-            </div>
+            <h3 class="level-title">{{ set.title }}</h3>
+            {% for subset in skills.set}
+            <h4 class="level-thing">{{ subset }}</h4>
             <!--//level-bar-->
         </div>
         <!--//item-->
