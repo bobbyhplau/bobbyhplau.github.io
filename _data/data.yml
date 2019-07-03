@@ -154,12 +154,14 @@ skills:
 
     toolset:
 
-      -set: LANGUAGES
+      set:
+        title: LANGUAGES
         -subset: Javascript
         -subset: HTML
         -subset: CSS
 
-      -set: FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS
+      set:
+        title: FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS
         -subset: Node.JS
         -subset: ReactJS
         -subset: Ajax
@@ -172,15 +174,18 @@ skills:
         -subset: SocketIO
         -subset: ReactJS
 
-      -set: SYSTEMS, CMS, &amp DATABASES
+      set:
+        title: SYSTEMS, CMS, &amp DATABASES
         -subset: SQL
         -subset: MongoDB
         -subset: Git
 
-      -set: TESTING
+      set:
+        title: TESTING
         -subset: Chai
 
-      -set: OTHERS
+      set:
+        title: OTHERS
         -subset: Google Sheets
         -subset: Adobe Photoshop
 
