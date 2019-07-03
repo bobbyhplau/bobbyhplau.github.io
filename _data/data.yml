@@ -38,13 +38,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'm a self-learned programmer looking to break into a new career field. After
+      refining my skills at a web development bootcamp, I'm eager to join a team and
+      make a career of my passion. I have experience in the past of meeting with clients,
+      translating their desires, and building a product that meets their needs and I know
+      that these skills will help me in my future career as a Junior Developer.
 
 education:
     - degree: Web Development Bootcamp
@@ -58,44 +56,41 @@ education:
 
 experiences:
     - role: Property Manager
-      time: 2016 - Present
+      time: 2017 - Present
       company: Self Employed
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I was the first point of contact whenever a tenant had a problem. This could
+        include a complaint they had about their neighbours, or something inside the
+        property has broken down. Whenever this happened, I would have to work quickly
+        to resolve the issues, many times within the same day. I also maintained the
+        premise, including landscaping and maintenance. I also help with finding new
+        tenants for clients.
 
     - role: Sales Associate
-      time: 2011 - 2016
+      time: 2011 - 2017
       company: Hing Fat Renovation
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        I worked closely with clients to make their kitchen dreams come true.
+        My responsibilities include meeting with clients to discuss their wants
+        and needs and help translating it into a finished product. In my role as
+        a sales associate, I was also responsible for managing the company's
+        relationships with suppliers, being knowledgable in their line of products
+        and how their goods can be used to build cabinets according to new trends,
+        and establish new relatonships with new suppliers. During my time as a sales
+        associate, I was tasked with converting their payroll and inventory system
+        from one that was paper-based to online.
 
     - role: Executive
-      time: 2019
+      time: 2019 - Present
       company: Richmond Dodgeball League
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Volunteer position at the Richmond Dodgeball League. I work as part
+        of a team to help run the league smoothly with responsibilities
+        including solving disputes among players, arranging for supplies to
+        be available at each location, scheduling teams, and managing statistics.
+        Whenever I see a way for the league to run more smoothly, I try to make
+        it happen such as by creating a new application to manage scoring as well
+        as an application to help scheduling.
 
 projects:
     title: Projects
@@ -105,25 +100,25 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Todo
+        link: "https://github.com/bobbyhplau/smart-to-do-list"
+        tagline: "A smart todo list project to show my understanding of AJAX and API calls."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Tweeter
+        link: "https://github.com/bobbyhplau/tweeter"
+        tagline: "A twitter-like app demonstrating my understanding of SCSS and MongoDB and JQuery."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: TinyApp
+        link: "https://github.com/bobbyhplau/tiny-app"
+        tagline: "A bitly like app that was used to practice HTML and Javascript"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Scheduler
+        link: "https://docs.google.com/spreadsheets/d/15dnxOJDGjgbsIlASYmox3I0__JO6qcCpFRkaS6WXAHU/edit?ouid=100245283070568483646&usp=sheets_home&ths=true"
+        tagline: "A Google Sheet app used to help schedule teams to gyms for RDL."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Playoff Calulator
+        link: "https://docs.google.com/spreadsheets/d/1MaHnfktpDw3LMb2e6D0ghyOercgM9kcI1K0F5xwTudI/edit#gid=1838374251"
+        tagline: "A Google Sheet app used to automatically calulate a team's playoff position"
 
 publications:
     title:
