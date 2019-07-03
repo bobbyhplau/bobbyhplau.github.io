@@ -154,40 +154,45 @@ skills:
 
     toolset:
 
-      set:
+      -set:
         title: LANGUAGES
-        -subset: Javascript
-        -subset: HTML
-        -subset: CSS
+        sub:
+          -subset: Javascript
+          -subset: HTML
+          -subset: CSS
 
-      set:
+      -set:
         title: FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS
-        -subset: Node.JS
-        -subset: ReactJS
-        -subset: Ajax
-        -subset: Express
-        -subset: Knex
-        -subset: EJS
-        -subset: JQuery
-        -subset: Bootstrap
-        -subset: SASS
-        -subset: SocketIO
-        -subset: ReactJS
+        sub:
+          -subset: Node.JS
+          -subset: ReactJS
+          -subset: Ajax
+          -subset: Express
+          -subset: Knex
+          -subset: EJS
+          -subset: JQuery
+          -subset: Bootstrap
+          -subset: SASS
+          -subset: SocketIO
+          -subset: ReactJS
 
-      set:
+      -set:
         title: SYSTEMS, CMS, &amp DATABASES
-        -subset: SQL
-        -subset: MongoDB
-        -subset: Git
+        sub:
+          -subset: SQL
+          -subset: MongoDB
+          -subset: Git
 
-      set:
+      -set:
         title: TESTING
-        -subset: Chai
+        sub:
+          -subset: Chai
 
-      set:
+      -set:
         title: OTHERS
-        -subset: Google Sheets
-        -subset: Adobe Photoshop
+        sub:
+          -subset: Google Sheets
+          -subset: Adobe Photoshop
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
