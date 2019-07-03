@@ -35,9 +35,6 @@ sidebar:
       - item: Dodgeball
         link: http://rdldodgeball.ca/
 
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -153,26 +150,35 @@ publications:
         conference:
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      -set: LANGUAGES
+        -subset: Javascript
+        -subset: HTML
+        -subset: CSS
 
-      - name: Angular
-        level: 98%
+      -set: FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS
+        -subset: Node.JS
+        -subset: ReactJS
+        -subset: Ajax
+        -subset: Express
+        -subset: Knex
+        -subset: EJS
+        -subset: JQuery
+        -subset: Bootstrap
+        -subset: SASS
+        -subset: SocketIO
+        -subset: ReactJS
 
-      - name: HTML5 & CSS
-        level: 95%
+      -set: SYSTEMS, CMS, &amp DATABASES
+        -subset: SQL
+        -subset: MongoDB
+        -subset: Git
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      -set: TESTING
+        -subset: Chai
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
