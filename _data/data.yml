@@ -47,18 +47,14 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Web Development Bootcamp
+      university: Lighthouse Labs
+      time: 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        The intensive bootcamp helped teach me the skills needed for me to become
+        a professional developer. They provided me mentorship and lessons that help
+        patch holes in my programming knowledge and gave me the opportunity to practice
+        programming in a team.
 
 experiences:
     - role: Lead Developer
