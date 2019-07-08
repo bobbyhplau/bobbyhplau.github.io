@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Bobby Lau
@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: bobbyhplau@gmail.com
-    phone:
+    phone: 604-339-7821
     website: bobbyhplau.github.io #do not add http://
     linkedin: bobbyhplau
     github: bobbyhplau
@@ -38,11 +38,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a self-learned programmer looking to break into a new career field. After
-      refining my skills at a web development bootcamp, I'm eager to join a team and
-      make a career of my passion. I have experience in the past of meeting with clients,
-      translating their desires, and building a product that meets their needs and I know
-      that these skills will help me in my future career as a Junior Developer.
+        Self-taught full stack web developer looking to break into a new career field. After refining
+        my skills at a web development bootcamp, I'm eager to join a team and make a career of my passion.
+        My background is in meeting with clients, interpreting their desires, and building a product that
+        meets their needs. My passion is to write code to solve unfamiliar problems with modern solutions.
 
 education:
     - degree: Web Development Bootcamp
@@ -55,42 +54,33 @@ education:
         programming in a team.
 
 experiences:
+    - role: Executive (Volunteer Position)
+      time: 2019 - Present
+      company: Richmond Dodgeball League
+      details: |
+        - create new time-saving applications to help the league run smoothly. Tasks such as scheduling teams or managing statistics that would take hours have been reduced to a few clicks.
+        - solve disputes among players diplomatically n a high adrenaline environment
+        - coordinate with team members for supplies to be available at each location
+
     - role: Property Manager
       time: 2017 - Present
       company: Self Employed
       details: |
-        I was the first point of contact whenever a tenant had a problem. This could
-        include a complaint they had about their neighbours, or something inside the
-        property has broken down. Whenever this happened, I would have to work quickly
-        to resolve the issues, many times within the same day. I also maintained the
-        premise, including landscaping and maintenance. I also help with finding new
-        tenants for clients.
+        - manage six rental properties, acting as the first point of contact for property owners and tenants
+        - maintain premises by doing yearly maintenance, keeping the garden tidy, and making repairs
+        - advertise vacant properties, review and process new tenant applications and perform background checks
+        - research and recommend rental pricing strategies to maximize tenant and owner fit
 
     - role: Sales Associate
-      time: 2011 - 2017
+      time: 2011 -2017
       company: Hing Fat Renovation
       details: |
-        I worked closely with clients to make their kitchen dreams come true.
-        My responsibilities include meeting with clients to discuss their wants
-        and needs and help translating it into a finished product. In my role as
-        a sales associate, I was also responsible for managing the company's
-        relationships with suppliers, being knowledgable in their line of products
-        and how their goods can be used to build cabinets according to new trends,
-        and establish new relatonships with new suppliers. During my time as a sales
-        associate, I was tasked with converting their payroll and inventory system
-        from one that was paper-based to online.
-
-    - role: Executive
-      time: 2019 - Present
-      company: Richmond Dodgeball League
-      details: |
-        Volunteer position at the Richmond Dodgeball League. I work as part
-        of a team to help run the league smoothly with responsibilities
-        including solving disputes among players, arranging for supplies to
-        be available at each location, scheduling teams, and managing statistics.
-        Whenever I see a way for the league to run more smoothly, I try to make
-        it happen such as by creating a new application to manage scoring as well
-        as an application to help scheduling.
+        - Communicated with customers to interpret their ideas for their dream kitchen into a realistic project given their price range and provide a fair estimate. Projects range from simple touch ups to complete remodels costing over $10,000
+        - Kept up with the latest trends and provided advice to customers to help grow their idea and communicate their needs
+        - Diagnosed problems with shop instruments and consulted technical manuals to identify and replace malfunctioning components
+        - Contacted supplies to ensure a well stocked inventory and that outsourced work is completed on-time and to customer's expectations
+        - Converted payroll and inventory system from a hand-written procedure to a digital system using MS Office Excel
+        - Responsible for writing cheques and invoices for clients and vendors
 
 projects:
     title: Projects
