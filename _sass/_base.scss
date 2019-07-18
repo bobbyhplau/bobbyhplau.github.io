@@ -281,6 +281,7 @@ p {
 .skillset {
     .item {
         margin-bottom: 15px;
+        overflow: hidden;
     }
 
     .level-title {
@@ -310,10 +311,12 @@ p {
         line-height: 1.6;
         color: $text-color-secondary;
         font-size: 13px;
+        display: none;
     }
 
     .fa-heart {
         color: $heart;
+        display: none;
     }
 
 }
