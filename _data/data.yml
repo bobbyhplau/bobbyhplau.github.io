@@ -86,25 +86,33 @@ projects:
     title: Projects
     intro:
     assignments:
+      - title: Jungle
+        link: "https://github.com/bobbyhplau/jungle-rails"
+        tagline: "An ecommerce app built using Ruby on Rails. It bolstered my ability to learn and build an application using a new language and framework quickly."
+
+      - title: Chatter
+        link: "https://github.com/bobbyhplau/chatter"
+        tagline: "A simple chat applications with updates in real time built with ReactJS."
+
       - title: Todo
         link: "https://github.com/bobbyhplau/smart-to-do-list"
-        tagline: "A smart todo list project to show my understanding of AJAX and API calls."
+        tagline: "A smart todo list that sorts the item automatically into categories. This project was built in 4 days using Node and Express and helped solidify my skills in AJAX and API calls."
 
       - title: Tweeter
         link: "https://github.com/bobbyhplau/tweeter"
-        tagline: "A twitter-like app demonstrating my understanding of SCSS and MongoDB and JQuery."
+        tagline: "A twitter-like app built with HTML and Javascript and developed my skills in SCSS and MongoDB and JQuery."
 
       - title: TinyApp
         link: "https://github.com/bobbyhplau/tiny-app"
-        tagline: "A bitly like app that was used to practice HTML and Javascript"
+        tagline: "A bitly like app built to refine my knowledge in HTML and Javascript"
 
       - title: Scheduler
         link: "https://docs.google.com/spreadsheets/d/15dnxOJDGjgbsIlASYmox3I0__JO6qcCpFRkaS6WXAHU/edit?ouid=100245283070568483646&usp=sheets_home&ths=true"
-        tagline: "A Google Sheet app used to help schedule teams to gyms for RDL."
+        tagline: "An advanced Google Sheet app with functions to solve facility scheduling issues for the Richmond Dodgeball League"
 
-      - title: Playoff Calulator
+      - title: Playoff Calculator
         link: "https://docs.google.com/spreadsheets/d/1MaHnfktpDw3LMb2e6D0ghyOercgM9kcI1K0F5xwTudI/edit#gid=1838374251"
-        tagline: "A Google Sheet app used to automatically calulate a team's playoff position"
+        tagline: "A Google Sheet app with functions to sort match result data and calulate a team's playoff position"
 
 publications:
     title:
