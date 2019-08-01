@@ -88,7 +88,7 @@ projects:
     assignments:
       - title: Hotspots
         link: "https://hotspots.netlify.com"
-        tagline: "A data aggregration webportal for people new to Vancouver. The data is displayed on a heatmap layer on top of a dynamic Google map image and the data was scraped using a Python web crawler. Frontend was built using ReactJS and the backend was written in Ruby and managed with Rails.
+        tagline: "A data aggregration webportal for people new to Vancouver. The data is displayed on a heatmap layer on top of a dynamic Google map image and the data was scraped using a Python web crawler. Frontend was built using ReactJS and the backend was written in Ruby and managed with Rails."
 
       - title: Jungle
         link: "https://github.com/bobbyhplau/jungle-rails"
