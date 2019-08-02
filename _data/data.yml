@@ -44,7 +44,7 @@ career-profile:
         meets their needs. My passion is to write code to solve unfamiliar problems with modern solutions.
 
 education:
-    - degree: Web Development Bootcamp
+    - degree: Diploma of Web Development
       university: Lighthouse Labs
       time: 2019
       details: |
@@ -144,14 +144,17 @@ skills:
         title: LANGUAGES
         sub:
           -subset: Javascript
+          -subset: Ruby
+          -subset: Python
           -subset: HTML
           -subset: CSS
 
       -set:
         title: FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS
         sub:
-          -subset: Node.JS
           -subset: ReactJS
+          -subset: Node.JS
+          -subset: Rails
           -subset: Ajax
           -subset: Express
           -subset: Knex
@@ -173,6 +176,9 @@ skills:
         title: TESTING
         sub:
           -subset: Chai
+          -subset: RSpec
+          -subset: Capybara
+          -subset: Poltergeist
 
       -set:
         title: OTHERS
