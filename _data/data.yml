@@ -38,13 +38,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Self-taught full stack web developer looking to break into a new career field. After refining
-        my skills at a web development bootcamp, I'm eager to join a team and make a career of my passion.
-        My background is in meeting with clients, interpreting their desires, and building a product that
-        meets their needs. My passion is to write code to solve unfamiliar problems with modern solutions.
+        Full-stack junior web developer looking to further my experience in an exciting career field. After 
+        refining my skills at a web development bootcamp and finishing my last contract, I'm eager to join a 
+        team and sharpen my skills, continuing to make a career of my passion. My background is in meeting with 
+        clients, interpreting their desires, and building a product that meets their needs. My passion is to 
+        write code to solve unfamiliar problems with modern solutions.
 
 education:
-    - degree: Web Development Bootcamp
+    - degree: Diploma of Web Development
       university: Lighthouse Labs
       time: 2019
       details: |
@@ -54,6 +55,16 @@ education:
         programming in a team.
 
 experiences:
+   - role: Fullstack Junior Developer
+      time: 2019 - 2020
+      company: Kater
+      details: |
+        - Developed backend applications integral to the ride sharing process such as shift managment and a dynamic onboarding client
+        - Tested applications for bugs, reporting them, and diving into new code bases to fix the problem
+        - Designed API endpoints and database structures and documenting the details in Postman for mocking
+        - Implemented front end features in accordance to a provided Invision design and Overflow
+        - Reviewed code from off-site contractors to ensure that it meets all business requirements
+
     - role: Executive (Volunteer Position)
       time: 2019 - Present
       company: Richmond Dodgeball League
@@ -144,14 +155,19 @@ skills:
         title: LANGUAGES
         sub:
           -subset: Javascript
+          -subset: Ruby
+          -subset: Python
           -subset: HTML
           -subset: CSS
 
       -set:
         title: FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS
         sub:
-          -subset: Node.JS
           -subset: ReactJS
+          -subset: Node.JS
+          -subset: Rails
+          -subset: Persistr (Event Sourcing)
+          -subset: Ant Design
           -subset: Ajax
           -subset: Express
           -subset: Knex
@@ -160,19 +176,24 @@ skills:
           -subset: Bootstrap
           -subset: SASS
           -subset: SocketIO
-          -subset: ReactJS
 
       -set:
         title: SYSTEMS, CMS, &amp DATABASES
         sub:
-          -subset: SQL
+          -subset: Postman
+          -subset: MySQL
           -subset: MongoDB
           -subset: Git
 
       -set:
         title: TESTING
         sub:
+          -subset: Sinon
+          -subset: Jest
           -subset: Chai
+          -subset: RSpec
+          -subset: Capybara
+          -subset: Poltergeist
 
       -set:
         title: OTHERS
