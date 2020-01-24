@@ -56,14 +56,14 @@ education:
 
 experiences:
    - role: Fullstack Junior Developer
-      time: 2019 - 2020
-      company: Kater
-      details: |
-        - Developed backend applications integral to the ride sharing process such as shift managment and a dynamic onboarding client
-        - Tested applications for bugs, reporting them, and diving into new code bases to fix the problem
-        - Designed API endpoints and database structures and documenting the details in Postman for mocking
-        - Implemented front end features in accordance to a provided Invision design and Overflow
-        - Reviewed code from off-site contractors to ensure that it meets all business requirements
+     time: 2019 - 2020
+     company: Kater
+     details: |
+       - Developed backend applications integral to the ride sharing process such as shift managment and a dynamic onboarding client
+       - Tested applications for bugs, reporting them, and diving into new code bases to fix the problem
+       - Designed API endpoints and database structures and documenting the details in Postman for mocking
+       - Implemented front end features in accordance to a provided Invision design and Overflow
+       - Reviewed code from off-site contractors to ensure that it meets all business requirements
 
     - role: Executive (Volunteer Position)
       time: 2019 - Present
