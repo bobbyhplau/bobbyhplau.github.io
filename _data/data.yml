@@ -49,7 +49,7 @@ education:
       university: Lighthouse Labs
       time: 2019
 
-experiences:
+relevants:
     - role: Fullstack Junior Developer
       time: 2019 - 2020
       company: Kater
@@ -60,6 +60,7 @@ experiences:
         - Implemented front end features in accordance to a provided Invision design and Overflow
         - Reviewed code from off-site contractors to ensure that it meets all business requirements
 
+experiences:
     - role: Executive (Volunteer Position)
       time: 2019 - Present
       company: Richmond Dodgeball League
