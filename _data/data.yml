@@ -38,7 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Full-stack junior web developer looking to further my experience in an exciting career field. After 
+        Full-stack web developer looking to further my experience in an exciting career field. After 
         finishing my last contract, I'm eager to join a team and sharpen my skills, continuing to make a career 
         of my passion. My background is in meeting with clients, interpreting their desires, and building a 
         product that meets their needs. My passion is to write code to solve unfamiliar problems with modern solutions.
@@ -49,8 +49,8 @@ education:
       time: 2019
 
 relevants:
-    - role: Fullstack Junior Developer
-      time: 2019 - 2020
+    - role: Junior Fullstack Developer
+      time: August 2019 - January 2020
       company: Kater
       details: |
         - Developed backend applications integral to the ride sharing process such as shift managment and a dynamic onboarding client
